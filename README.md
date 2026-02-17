@@ -1,15 +1,15 @@
-# 👋 Hey, I'm PJ
+#  Hey, I'm PJ
 
-### 🧠 Fullstack Engineer | 🧱 Blockchain Dev | 🤖 AI Systems Builder
-
----
-
-#### 🚀 Projects & Work
-- 🛠️ Tech Stack: TypeScript, Rust, Solidity, Anchor, Python, React, Node, Next.js, Solana, EVM, LLM APIs & more.
+### Fullstack Engineer | Blockchain Dev | AI Systems Builder
 
 ---
 
-#### 💬 Let's Build Something Bold
+#### Projects & Work
+- Tech Stack: TypeScript, Rust, Solidity, Anchor, Python, React, Node, Next.js, Solana, EVM, LLM APIs & more.
+
+---
+
+#### Let's Build Something Bold
 I work at the intersection of software, crypto, and artificial intelligence crafting systems that scale and experiments that push boundaries.
 
 If you're looking for firepower in:
@@ -20,7 +20,7 @@ If you're looking for firepower in:
 Drop me a line. Always open to innovative collabs, contract gigs, or ambitious ideas.
 
 
-🔗 [Twitter](https://x.com/NineOwlsDev)
-🔗 [Telegram](https://t.me/NineOwlsDev)
+[Twitter](https://x.com/NineOwlsDev)
+[Telegram](https://t.me/NineOwlsDev)
 
 ---
