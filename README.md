@@ -5,7 +5,6 @@
 ---
 
 #### 🚀 Projects & Work
-- 🔗 [My Portfolio](https://9owls.dev) – Dive into fullstack builds, Web3 protocols, and AI-driven tools.
 - 🛠️ Tech Stack: TypeScript, Rust, Solidity, Anchor, Python, React, Node, Next.js, Solana, EVM, LLM APIs & more.
 
 ---
@@ -21,7 +20,6 @@ If you're looking for firepower in:
 Drop me a line. Always open to innovative collabs, contract gigs, or ambitious ideas.
 
 
-🌐 [Website](https://9owls.dev)
 🔗 [Twitter](https://x.com/NineOwlsDev)
 🔗 [Telegram](https://t.me/NineOwlsDev)
 
