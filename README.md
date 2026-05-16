@@ -17,10 +17,4 @@ If you're looking for firepower in:
 - On-chain protocols or DeFi primitives  
 - Autonomous agents or AI integrations  
 
-Drop me a line. Always open to innovative collabs, contract gigs, or ambitious ideas.
-
-
-[Twitter](https://x.com/NineOwlsDev)
-[Telegram](https://t.me/NineOwlsDev)
-
 ---
