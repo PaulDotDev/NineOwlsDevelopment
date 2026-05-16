@@ -1,4 +1,4 @@
-#  Hey, I'm PJ
+#  Hey, I'm Paul
 
 ### Fullstack Engineer | Blockchain Dev | AI Systems Builder
 
